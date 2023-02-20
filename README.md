@@ -4,7 +4,6 @@ The card has a fixed height and width with a dark blue background color. It cont
 
 The CSS code also includes media queries for larger screens, where the card's layout changes to a row and the header and section are aligned to the left side of the card. The statistics are aligned in a row and there is more space between the elements.
 
-
 # Front-end Style Guide
 
 ## Layout
